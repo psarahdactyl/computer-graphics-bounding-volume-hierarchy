@@ -355,7 +355,6 @@ references as per academic honesty policies.
  - `igl::AABB`
  - `igl::ray_box_intersect`
  - `igl::ray_mesh_intersect`
- - `igl::ray_mesh_intersect`
 
 ### `src/ray_intersect_triangle.cpp`
 
